@@ -1,0 +1,41 @@
+body {
+  font-family: forge;
+}
+
+header {
+  background-color: purple;
+  padding: 20px;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.Imagen{
+  width: 350px;
+}
+section {
+  padding: 50px;
+}
+
+h2 {
+  color: #333;
+  font-size: 25px;
+}
+
+p {
+  color: white;
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+footer {
+  background-color: purple;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
